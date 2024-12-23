@@ -71,7 +71,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 8. Jalankan Server:
 
    bash
-   php artisan serve
+   php artisan serv
    
 
    Aplikasi akan tersedia di [http://127.0.0.1:8000](http://127.0.0.1:8000).
